@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TDMCProtocol", "TDMCProtocol\TDMCProtocol.csproj", "{96C319E8-4EED-49DF-99B0-7C9EF490EBEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWinform", "TestWinform\TestWinform.csproj", "{E933123F-C4EB-44E8-85B1-E543AE97FFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96C319E8-4EED-49DF-99B0-7C9EF490EBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C319E8-4EED-49DF-99B0-7C9EF490EBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C319E8-4EED-49DF-99B0-7C9EF490EBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C319E8-4EED-49DF-99B0-7C9EF490EBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E933123F-C4EB-44E8-85B1-E543AE97FFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E933123F-C4EB-44E8-85B1-E543AE97FFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E933123F-C4EB-44E8-85B1-E543AE97FFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E933123F-C4EB-44E8-85B1-E543AE97FFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41E69739-8D55-40A7-B231-1536B43A717F}
+	EndGlobalSection
+EndGlobal
